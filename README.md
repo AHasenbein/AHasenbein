@@ -20,7 +20,7 @@ Computer Science major (Mathematics minor) at **Penn State**, graduating May 202
 
 ### Tech
 
-- **Languages:** Python · TypeScript/JavaScript · Java · C# · C++ · SQL
+- **Languages:** Python · TypeScript/JavaScript · Java · C# · SQL
 - **ML/Data:** PyTorch · scikit-learn · LightGBM · pandas · Plotly
 - **Web:** React · Next.js · Node/Express · ASP.NET · MongoDB
 
