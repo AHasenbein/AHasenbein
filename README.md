@@ -23,7 +23,3 @@ Computer Science major (Mathematics minor) at **Penn State**, graduating May 202
 - **Languages:** Python · TypeScript/JavaScript · Java · C# · SQL
 - **ML/Data:** PyTorch · scikit-learn · LightGBM · pandas · Plotly
 - **Web:** React · Next.js · Node/Express · ASP.NET · MongoDB
-
-### Find me
-
-[alexhasenbein.com](https://alexhasenbein.com) · [LinkedIn](https://www.linkedin.com/in/alexhasenbein/) · hasenbeinalex@gmail.com
