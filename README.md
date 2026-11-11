@@ -3,7 +3,7 @@
 Computer Science major (Mathematics minor) at **Penn State**, graduating May 2028. I build full-stack apps, ML pipelines, and multi-agent LLM systems. Looking for **Summer 2027 SWE/ML internships**.
 
 - **Previously:** Software Engineering & ML Intern at **Flex** (Summer 2026). Built a LightGBM model forecasting board build times on 1M+ records, plus real-time C#/ASP.NET dashboards for the process engineering team.
-- **Founder, Nori Power:** built all the software for a 5-person renewable-energy startup turning sargassum seaweed into energy.
+- **CoFounder, Nori Power:** built all the software for a 5-person renewable-energy startup turning sargassum seaweed into energy.
 - **1st Place, AI Agents & LLMs** at the Behrend Hackathon for [DevCord](https://github.com/AHasenbein/Devcord-Multi-Agent).
 - **Undergraduate researcher:** hyperparameter optimization for small neural networks (Penn State Honors).
 
